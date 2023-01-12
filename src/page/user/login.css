@@ -1,0 +1,13 @@
+#page--login input[type="checkbox"] {
+    border: 1.5px solid #347AFF !important;
+    background-color: rgba(164, 86, 86, 0.1);
+}
+#page--login input,
+#page--login select {
+    background-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+#page--login select>option {
+    color: black;
+    background-color: rgba(164, 86, 86, 0.1);
+}
